@@ -278,6 +278,7 @@ tile.TFMagicLog.0.name=时光树原木
 tile.TFMagicLog.1.name=变化树原木
 tile.TFMagicLog.2.name=矿工树原木
 tile.TFMagicLog.3.name=分类树原木
+tile.TFMagicLog.12.name=Timewood
 tile.TFMagicLogSpecial.name=Wood
 tile.TFMagicLogSpecial.0.name=时光树的时钟
 tile.TFMagicLogSpecial.1.name=变化树的心脏

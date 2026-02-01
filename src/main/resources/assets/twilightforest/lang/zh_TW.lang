@@ -278,6 +278,7 @@ tile.TFMagicLog.0.name=時間樹原木
 tile.TFMagicLog.1.name=變換樹原木
 tile.TFMagicLog.2.name=礦物樹原木
 tile.TFMagicLog.3.name=分類樹原木
+tile.TFMagicLog.12.name=Timewood
 tile.TFMagicLogSpecial.name=Wood
 tile.TFMagicLogSpecial.0.name=時間樹核心
 tile.TFMagicLogSpecial.1.name=變換樹核心
